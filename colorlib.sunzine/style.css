@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(230, 227, 227);
+}
+.container-fluid{
+    height: 60px;
+    background-color: aqua;
+}
+.text-part{
+    width: 50rem;
+    height: 300px;
+    color: black;
+    padding: 85px 0;
+}
+.filter{
+    padding: 30px;
+    width: 100uv;
+}
+
+.container-fluid{   
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.spinner{
+    padding: 45px 0 95px;
+}
+.footer-part{
+    background-color: black;
+    height: 10px;
+}

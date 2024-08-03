@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #dbd5d5;
+}
+h1{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: bisque;height: 20%;
+padding: 10;}
+
+h2{ background-color: aquamarine;
+text-align: left;
+margin: 5%;}
+
+
+
+
+
+.fixed{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(163, 156, 156);
+    position: fixed;
+    top: 500px;
+    right: 30px;
+    border-radius: 10%;
+    opacity: 0.7;
+    color: white;
+    text-align: center;
+    font-size: 26px;    
+    }
+    
+.img00{
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    
+    }
+.img.medium{
+    width: 500px;
+    height: 500px;
+}
+
